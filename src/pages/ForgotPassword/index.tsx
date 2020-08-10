@@ -60,7 +60,7 @@ const ForgotPassword: React.FC = () => {
             <Input name="email" icon={FiMail} placeholder="E-mail" />
             <Button type="submit">Recuperar</Button>
           </Form>
-          <Link to="/signin">
+          <Link to="/">
             <FiLogIn />
             Voltar ao login
           </Link>
