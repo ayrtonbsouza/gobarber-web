@@ -138,6 +138,7 @@ export const NextAppointment = styled.div`
       display: flex;
       align-items: center;
       color: #999591;
+      width: 70px;
 
       svg {
         color: #ff9000;
